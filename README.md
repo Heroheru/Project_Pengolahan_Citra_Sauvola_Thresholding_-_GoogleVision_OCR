@@ -27,8 +27,6 @@ Repositori ini berisi implementasi **Google Cloud Vision** untuk ekstraksi karak
 ├── output_100/        # Folder hasil ekstraksi OCR dari gambar yang telah difiltering dengan Sauvola
 │   ├── filtered_image1.jpg
 │   ├── filtered_image2.jpg
-│   ├── result_sauvola1.txt
-│   ├── result_sauvola2.txt
 │   ├── ...
 ├── [Kode_Program]_Adaptive_Thresholding_Sauvola.py    # Script untuk preprocessing menggunakan metode Sauvola
 ├── [Kode_Program]_OCR_Google_Vision_API.ipynb         # Notebook untuk ekstraksi karakter dengan Google Cloud Vision
